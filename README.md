@@ -9,17 +9,15 @@ Monitor sales trends over time.
 Identify top-performing products.
 Support business decisions with interactive visualizations.
 ## Tools Used
-Power BI
-
-Power Query (Data Cleaning & Transformation)
-
-DAX (Calculated Measures)
+- Power BI
+- Power Query (Data Cleaning & Transformation)
+- DAX (Calculated Measures)
 ## Dashboard Features
-Total Sales Overview
-Total Quantity Sold
-Total Orders
-Brand-wise Sales Analysis
-Product-wise Sales Performance
+- Total Sales Overview
+- Total Quantity Sold
+- Total Orders
+- Brand-wise Sales Analysis
+- Product-wise Sales Performance
 Monthly Sales Trend
 Interactive Filters (Slicers)
 Dynamic Charts and KPI Cards
