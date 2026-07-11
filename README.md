@@ -10,7 +10,9 @@ Identify top-performing products.
 Support business decisions with interactive visualizations.
 ## Tools Used
 Power BI
+
 Power Query (Data Cleaning & Transformation)
+
 DAX (Calculated Measures)
 ## Dashboard Features
 Total Sales Overview
